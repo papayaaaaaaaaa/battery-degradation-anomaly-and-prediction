@@ -32,4 +32,4 @@ we also rank the cells on their tendency to be an anomaly for each method
 - Make this a white box (using SHAAP and making it an explainable model - is able to explain why it flagged certain cell ) (from SIH statement -> will have to look into this)
 - Talk to people from the industry (If you can help me find them, please do) to know what is needed from a similar model from the non ML side of things (eg: what data is feasible to collect, what information ML can provide them that is useful)
 
-## MADE WITH LOVE FOR THE GAME :D
+#### MADE FOR THE LOVE OF THE GAME :D
